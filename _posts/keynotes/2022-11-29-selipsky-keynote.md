@@ -11,7 +11,7 @@ permalink: /:categories/:title
 
 [Link to recording](https://www.youtube.com/watch?v=Xus8C2s5K9A)
 
-Adam Selipsky, Chief Executive Officer of Amazon Web Services, delivers his AWS re:Invent 2022 keynote, featuring forward-thinking builders who are transforming industries and even our future, powered by AWS.
+Adam Selipsky, Chief Executive Officer of Amazon Web Services, delivers his [AWS re:Invent 2022 keynote](https://www.youtube.com/watch?v=Xus8C2s5K9A), featuring forward-thinking builders who are transforming industries and even our future, powered by AWS.
 
 He highlights innovations in data, security, infrastructure, and specialized solutions that are helping customers achieve their goals faster, take advantage of untapped potential, and create a better future with AWS.
 
